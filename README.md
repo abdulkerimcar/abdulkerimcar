@@ -1,4 +1,6 @@
-![MasterHead](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47y2zk170amjsj2qb4amjgau0qmkhw1dc3iesp7cx4&ep=v1_gifs_search&rid=200.webp&ct=g)
+<p align="center">
+  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47y2zk170amjsj2qb4amjgau0qmkhw1dc3iesp7cx4&ep=v1_gifs_search&rid=200.webp&ct=g" alt="MasterHead">
+</p>
 
 
 <h1 align="center">Hi 👋, I'm Abdülkerim Sinan CAR</h1>
